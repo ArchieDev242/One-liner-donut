@@ -1,4 +1,4 @@
-# Lua 3D Spinning Donut 🍩
+# Lua 3D Spinning One-Liner-Donut 🍩
 
 Hey there! Welcome to my **Lua Donut Spinner Terminal Interface**—a fun, single-line project that spins a 3D donut right in your console! It’s my spin (pun intended) on Andy Sloane’s awesome "Donut in C," and I’m excited to share it with you. Scroll down to the language console to flip between English, Ukrainian, or German versions. Pick your vibe and let’s dive into this sweet little пончик adventure!
 
