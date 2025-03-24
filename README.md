@@ -37,7 +37,7 @@ Hey there! Welcome to my **Lua Donut Spinner Terminal Interface**—a fun, singl
      - Linux: Type `sudo apt install lua5.4` or `sudo yum install lua`.  
      - macOS: Run `brew install lua`.  
      - Check: `lua -v` should say something like `Lua 5.4.6`.  
-  2. **Get the Goods**: Clone `https://github.com/yourusername/lua-donut-spinner.git` or grab `donut.lua`.  
+  2. **Get the Goods**: Clone `https://github.com/ArchieDev242/One-liner-donut` or grab `donut.lua`.  
   3. **Let It Rip**: Open a terminal, head to the folder, and type `lua donut.lua`.  
   4. **Chill Out**: Hit `Ctrl+C` when you’ve had your fill.  
   *Pro Tip*: Fixed-width font (like Consolas) and 80x22+ screen size make it pop.
@@ -82,7 +82,7 @@ Hey there! Welcome to my **Lua Donut Spinner Terminal Interface**—a fun, singl
      - Linux: `sudo apt install lua5.4` або `sudo yum install lua`.  
      - macOS: `brew install lua`.  
      - Перевір: `lua -v`.  
-  2. **Хапай скрипт**: Клонуй `https://github.com/yourusername/lua-donut-spinner.git` або бери `donut.lua`.  
+  2. **Хапай скрипт**: Клонуй `https://github.com/ArchieDev242/One-liner-donut` або бери `donut.lua`.  
   3. **Гайда крутити**: У терміналі пиши `lua donut.lua`.  
   4. **Гальмуй**: Тисни `Ctrl+C`, коли досить.  
   *Порада*: Фіксований шрифт і 80x22+ — топчик.
@@ -127,7 +127,7 @@ Hey there! Welcome to my **Lua Donut Spinner Terminal Interface**—a fun, singl
      - Linux: `sudo apt install lua5.4` oder `sudo yum install lua`.  
      - macOS: `brew install lua`.  
      - Test: `lua -v`.  
-  2. **Schnapp den Script**: Klon `https://github.com/yourusername/lua-donut-spinner.git` oder lad `donut.lua`.  
+  2. **Schnapp den Script**: Klon `https://github.com/ArchieDev242/One-liner-donut` oder lad `donut.lua`.  
   3. **Losdrehen**: Tippe `lua donut.lua` im Terminal.  
   4. **Stopp**: `Ctrl+C`, wenn’s reicht.  
   *Tipp*: Feste Schriftart, 80x22+ für den besten Look.
